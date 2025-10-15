@@ -3,6 +3,13 @@
     font-family:Arial;
     border:border-box;
 }
+.disclaimer{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    font-size: 0.9rem;
+    padding: 5px;
+}
 .navbar{
     height:60px;
     background-color: #0f1111;
@@ -271,4 +278,5 @@ li a:hover {
 
 .copyright{
     padding-top: 5px;
+
 }
